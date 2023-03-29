@@ -1,10 +1,10 @@
 # Dynamic Mode Decomposition of Dynamic MRI for Assessment of Pulmonary Ventilation and Perfusion 
 
 This technique is described in the following paper:
-https://onlinelibrary.wiley.com/doi/10.1002/mrm.29656
 
 Ilicak, E, Ozdemir, S, Zapp, J, Schad, LR, Zöllner, FG. "Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion". Magn Reson Med. 2023; 1- 9. doi: 10.1002/mrm.29656
 
+https://onlinelibrary.wiley.com/doi/10.1002/mrm.29656
 ```
 
 @article{https://doi.org/10.1002/mrm.29656,
