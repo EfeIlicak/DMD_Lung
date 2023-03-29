@@ -2,9 +2,7 @@
 
 This technique is described in the following paper:
 
-Ilicak, E, Ozdemir, S, Zapp, J, Schad, LR, Zöllner, FG. 
-"Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion".
-Magn Reson Med. 2023; 1- 9. doi: 10.1002/mrm.29656
+Ilicak, E, Ozdemir, S, Zapp, J, Schad, LR, Zöllner, FG. "Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion". Magn Reson Med. 2023; 1- 9. doi: 10.1002/mrm.29656
 
 ```
 
