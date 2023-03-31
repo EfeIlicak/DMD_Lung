@@ -100,7 +100,7 @@ perf_DMD = reconstructFreqImage(b_DMD,res_DMD,perf_DMD_idx); % perfusion image
 
 %% Generate functional maps
 % Calculate fractional ventilation map
-BGr = std(dc_DMD(1:30,1:30)); % A region from background
+BGr = dc_DMD(1:30,1:30); % A region from background
 BG = std(BGr(:)); % noise level in background 
 ventMap = abs((vent_DMD)./((vent_DMD/2)+dc_DMD-BG));
 
