@@ -11,6 +11,7 @@ A Python version of this implementation is also available on:
 https://github.com/EfeIlicak/DMD_Lung_Python/
 
 ```
+
 @article{https://doi.org/10.1002/mrm.29656,
 author = {Ilicak, Efe and Ozdemir, Safa and Zapp, Jascha and Schad, Lothar R. and Zöllner, Frank G.},
 title = {Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion},
