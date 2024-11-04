@@ -9,6 +9,8 @@ Ilicak E, Ozdemir S, Zapp J, Schad LR, Zöllner FG. Dynamic mode decomposition o
 The Python implementation is also available on:
 https://github.com/EfeIlicak/DMD_Lung_Python/
 
+
+## Reference
 ```
 
 @article{https://doi.org/10.1002/mrm.29656,
@@ -26,8 +28,6 @@ abstract = {Purpose To introduce dynamic mode decomposition (DMD) as a robust al
 }
 
 ```
-
-
 
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately. 
 The original version of the DMD code used in this study was obtained from http://dmdbook.com/CODE.zip.
