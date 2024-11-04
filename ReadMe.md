@@ -1,13 +1,12 @@
 # Dynamic Mode Decomposition of Dynamic MRI for Assessment of Pulmonary Ventilation and Perfusion 
-
+The MATLAB implementation of the "Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion." 
 This technique is described in the following paper:
 
-Ilicak E, Ozdemir S, Zapp J, Schad LR, Zöllner FG. Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion. Magn Reson Med. 2023; 90: 761-769. doi: 10.1002/mrm.29656
+Ilicak E, Ozdemir S, Zapp J, Schad LR, Zöllner FG. Dynamic mode decomposition of dynamic MRI for assessment of pulmonary ventilation and perfusion. Magn Reson Med. 2023; 90: 761-769. doi: 10.1002/mrm.29656. [Open Access Paper](https://onlinelibrary.wiley.com/doi/10.1002/mrm.29656).
 
-https://onlinelibrary.wiley.com/doi/10.1002/mrm.29656
 
 ## Python Implementation
-A Python version of this implementation is also available on:
+The Python implementation is also available on:
 https://github.com/EfeIlicak/DMD_Lung_Python/
 
 ```
